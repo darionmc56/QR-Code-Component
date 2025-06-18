@@ -1,17 +1,28 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.card{
-    width: 320px;px;
-    height:499px;
-    background-color: white;
-    border-radius: 10px;
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
 }
 
-    img{
-width: 160px;
-height: 160px;
-    }
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 320px;
+  height: 499px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+img {
+  width: 160px;
+  height: 160px;
+}
