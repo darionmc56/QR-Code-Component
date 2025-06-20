@@ -61,3 +61,72 @@ p {
   color: #1f314f;
   margin-top: 2rem;
 }
+
+@media (min-width: 1024px) {
+  .qr-container {
+    width: 40%;
+    height: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+  
+  .qr-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h1, p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .attribution {
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .qr-container {
+    width: 90%;
+    height: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+  
+  .qr-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h1, p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .attribution {
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 345px) {
+  .qr-container {
+    width: 90%;
+    height: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+  
+  .qr-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h1, p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .attribution {
+    margin-top: 1rem;
+  }
+}
