@@ -26,8 +26,6 @@ A simple and clean front-end component that displays a QR code along with a brie
 - Practiced alternative centering methods (margin vs. flexbox).
 - Improved understanding of layout fundamentals and responsive structure.
 
-## 🔁 Solution Retrospective
-
 ### ✅ What I’m Proud Of:
 I was proud of how I used `margin` to center the QR container instead of relying on Flexbox.
 
