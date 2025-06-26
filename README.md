@@ -6,6 +6,7 @@ A simple and clean front-end component that displays a QR code along with a brie
 
 ## 📸 Screenshot
 
+<img width="452" alt="Screenshot 2025-06-26 at 3 55 26 PM" src="https://github.com/user-attachments/assets/acda238c-0056-4985-814f-f847fa26a141" />
 
 
 ## 🛠️ Built With
